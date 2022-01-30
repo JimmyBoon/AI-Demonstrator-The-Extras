@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72fbb85111f814d48bd8dc870bd52f07, type: 3}
+  m_Name: Mary Answers
+  m_EditorClassIdentifier: 
+  answers:
+  - Mary
+  - Oh fine thank you
+  - Just some stuff around town
+  - Over there where the trees are
+  - Very old
